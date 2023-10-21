@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 2. 课程代码
 3. 兴趣项目
 4. 学习笔记
-5. ……
+5. 试题相关
+6. ……
 
-很多都是不怎么复杂的python小项目，日后会整理其它类型的项目然后设为public
