@@ -2,8 +2,7 @@
 BH3GEI/BH3GEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Welcome! This user prefers a laid-back pace, updates may be sparse.
-![avatar](https://github.com/BH3GEI/BH3GEI/assets/58540850/30b7dcfb-dcf6-4803-a372-1cc91bb53434)
+👋 Welcome! This user prefers a laid-back pace, updates may be sparse. 
 
 #### Primary Repository Contents
 
@@ -14,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 5. Exam-related Materials
 6. And more...
 
+<img src="https://github.com/BH3GEI/BH3GEI/assets/58540850/30b7dcfb-dcf6-4803-a372-1cc91bb53434" width="50px">
