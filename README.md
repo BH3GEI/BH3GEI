@@ -2,7 +2,7 @@
 BH3GEI/BH3GEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- Welcome! This user prefers a laid-back pace, updates may be sparse. 
+ Welcome! 
 
 ####  Primary Repository Contents 
 
