@@ -13,4 +13,4 @@ Welcome!
 5. Exam-related Materials
 6. And more...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bh3gei&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bh3gei&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
