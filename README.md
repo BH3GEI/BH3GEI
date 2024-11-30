@@ -4,13 +4,30 @@ You can click the Preview link to take a look at your changes.
 --->
 Welcome! 
 
-####  Primary Repository Contents 
+# Hi, I'm Li Yao
 
-1. Personal Tools
-2. Course-related Code
-3. Hobby Projects
-4. Learning Notes
-5. Exam-related Materials
-6. And more...
+👀 **Main Research Fields**  
+- Virtualization Technology  
+- WebAssembly  
+
+✨ **Other Interests**  
+- Blockchain  
+- Game Development  
+- AI Applications  
+
+🌱 **Current Status**  
+- Master's Student at **Softlab**, University of Tsukuba  
+- Research Assistant at **CUHK**, working on Blockchain and NFT research  
+
+💞️ **Collaboration**  
+Eager to collaborate on exciting projects within these domains.  
+
+📫 **Contact**  
+- Email: [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp)  
+- Email: [scholar.liyao@gmail.com](mailto:scholar.liyao@gmail.com)  
+
+📍 **Location**  
+Based in Tokyo.  
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BH3GEI&count_private=true&hide=contribs,prs,issues)
