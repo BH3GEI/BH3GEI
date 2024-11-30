@@ -25,4 +25,4 @@ Eager to collaborate on some exciting projects.
 
 You can reach me at [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp) or [scholar.liyao@gmail.com](mailto:scholar.liyao@gmail.com).  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BH3GEI&count_private=true&hide=contribs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BH3GEI&count_private=true&hide=contribs,prs)
