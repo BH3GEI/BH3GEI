@@ -19,12 +19,9 @@ Welcome!
 - Master's Student at **Softlab**, University of Tsukuba  
 - Research Assistant at **CUHK**, working on Blockchain and NFT research  
 
-💞️ **Collaboration**  
-Eager to collaborate on exciting projects within these domains.  
-
-📫 **Contact**  
-- Email: [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp)  
-- Email: [scholar.liyao@gmail.com](mailto:scholar.liyao@gmail.com)  
+💞️ **Collaboration & Contact**  
+Eager to collaborate on some exciting projects. 
+You can reach me at [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp) or [scholar.liyao@gmail.com](mailto:scholar.liyao@gmail.com).  
 
 📍 **Location**  
 Based in Tokyo.  
