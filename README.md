@@ -49,7 +49,7 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs&card_width=400" />
   <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH3GEI&layout=compact&bg_color=00000000&langs_count=6&card_width=300" />
 </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BH3GEI&theme=minimal&area=true" width="88%" height="100%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BH3GEI&theme=minimal&area=true" width="70%" height="100%" alt="activity graph">
 
 
 
