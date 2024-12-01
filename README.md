@@ -23,9 +23,8 @@
 - WebAssembly Optimization
 - System-level Programming
 - Virtual Machine Development
-- Embedded Systems Development
 - Web Technologies
-- 
+  
 ## 🔗 Connect
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
