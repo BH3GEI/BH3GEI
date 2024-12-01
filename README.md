@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH3GEI&layout=compact&bg_color=00000000&langs_count=8" />
+
 # Hi, I'm Yao 👋
 
 ## 🛠️ Tech Stack
@@ -20,9 +23,7 @@
 - Virtual Machine Development
 - Web Technologies
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BH3GEI&layout=compact&bg_color=00000000&langs_count=8)
+<br clear="right"/>
 
 ## 🔗 Connect
 - 📧 [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp)
