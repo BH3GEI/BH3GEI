@@ -22,10 +22,12 @@
 - Web Technologies
 
 <br/>
-<div align="right">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH3GEI&layout=compact&bg_color=00000000&langs_count=8" />
 </div>
+
+
 ## 🔗 Connect
 - 📧 [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp)
 - 🐦 [@BH3GEI_CN](https://twitter.com/BH3GEI_CN)
