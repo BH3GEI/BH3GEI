@@ -14,12 +14,6 @@
   - 🤖 LLM API Integration
   - 📊 Data Analysis
 
-## 🚀 Featured Projects
-- [CloudflareWorkerProxy](https://github.com/BH3GEI/CloudflareWorkerProxy) - Proxy service based on Cloudflare Workers
-- [CHIP-8VirtualMachine](https://github.com/BH3GEI/CHIP-8VirtualMachine) - CHIP-8 Emulator in C++
-- [WasmTest](https://github.com/BH3GEI/WasmTest) - LC-3 VM Implementation
-- [LectureToText](https://github.com/BH3GEI/LectureToText) - Audio/Video Transcription Tool
-
 ## 🔍 Current Focus
 - WebAssembly Optimization
 - System-level Programming
