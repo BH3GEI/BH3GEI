@@ -1,7 +1,3 @@
-<div align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH3GEI&layout=compact&bg_color=00000000&langs_count=8" />
-</div>
 
 # Hi, I'm Yao 👋
 
