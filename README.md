@@ -11,7 +11,7 @@
   - ☁️ Cloudflare Workers
   - 🔧 WebAssembly
 - **AI & Tools**
-  - 🐍 Python: Crawlers, Audio Processing
+  - 🐍 Python: Crawlers, Audio/Video Processing
   - 🤖 LLM API Integration
   - 📊 Data Analysis
 
