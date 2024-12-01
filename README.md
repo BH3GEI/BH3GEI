@@ -1,7 +1,5 @@
 # Hi, I'm Yao 👋
 
-#### System Developer & WebAssembly Enthusiast
-
 ## 🛠️ Tech Stack
 - **Systems & Low-level**
   - 💻 C/C++: VM/Emulator Development (CHIP-8, LC-3)
