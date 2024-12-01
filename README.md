@@ -24,7 +24,7 @@
 </p>
 
 ## 🛠️ Tech Stack
-- **Systems & Low-level**
+- **Systems & Low-level**(My Research)
   - 💻 C/C++: VM/Emulator Development (CHIP-8, LC-3)
   - 🦀 Rust: WebAssembly & System Programming
   - 🔌 Embedded Systems
