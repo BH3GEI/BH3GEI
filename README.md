@@ -60,10 +60,3 @@
 <!-- 访问计数器 -->
 <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
-<!-- 贪吃蛇贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BH3GEI/BH3GEI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BH3GEI/BH3GEI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BH3GEI/BH3GEI/output/github-contribution-grid-snake.svg">
-</picture>
-
