@@ -40,6 +40,8 @@
   <a href="https://bh3gei.github.io/">
     <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+
 </p>
 
 <br/>
@@ -50,13 +52,10 @@
 </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BH3GEI&theme=minimal&area=true" width="88%" height="100%" alt="activity graph">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BH3GEI)
 
 
 
 
 
 
-<!-- 访问计数器 -->
-<img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
