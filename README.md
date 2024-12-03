@@ -6,7 +6,6 @@
 
 ## 🔗 Connect
 <p align="left">
-    <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 
   <a href="mailto:liyao@mail.softlab.cs.tsukuba.ac.jp">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
@@ -19,7 +18,9 @@
   </a>
   <a href="https://bh3gei.github.io/">
   </a>
-  
+    <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+
     <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
 </p>
