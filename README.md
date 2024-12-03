@@ -6,23 +6,19 @@
 
 ## 🔗 Connect
 <p align="left">
+    <a href="mailto:liyao@mail.softlab.cs.tsukuba.ac.jp">
+        <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://twitter.com/BH3GEI_CN">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/yao-li2026">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://bh3gei.github.io/">
+        <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-
-  <a href="mailto:liyao@mail.softlab.cs.tsukuba.ac.jp">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/BH3GEI_CN">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yao-li2026">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bh3gei.github.io/">
-  </a>
-    <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-
-
 </p>
 
 ## 🛠️ Tech Stack
