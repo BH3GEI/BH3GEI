@@ -37,9 +37,7 @@
   - 📊 Data Analysis
 
 ## 🔍 Current Focus
-- WebAssembly Optimization
 - System-level Programming
-- Virtual Machine Development
 - Web Technologies
   
 <div align="left"><div align="left">
