@@ -1,8 +1,5 @@
 # Hi, I'm Yao 👋
 
----
-*I'll make something great. But maybe tomorrow 🤡*
----
 
 ## 🔗 Connect
 <p align="left">
@@ -21,24 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=BH3GEI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
-## 🛠️ Tech Stack
-- **Systems & Low-level**(My Research)
-  - 💻 C/C++: VM/Emulator Development
-  - 🦀 Rust: WebAssembly & System Programming
-  - 🔌 Embedded Systems
-  - 🐧 Linux System Programming
-- **Web & Cloud**
-  - 🌐 Vue.js, JavaScript, PHP
-  - ☁️ Cloudflare Workers
-  - 🔧 WebAssembly
-- **AI & Tools**
-  - 🐍 Python: Crawlers, Audio/Video Processing
-  - 🤖 LLM API Integration
-  - 📊 Data Analysis
-
-## 🔍 Current Focus
-- System-level Programming
-- Web Technologies
   
 <div align="left"><div align="left">
   <img height="140" width="400" src="https://github-readme-stats.vercel.app/api?username=BH3GEI&show_icons=true&bg_color=00000000&hide=contribs,prs&card_width=400" />
